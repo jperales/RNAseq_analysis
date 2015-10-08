@@ -24,7 +24,7 @@
 * [ ] *R function* : Principal Component Analysis.
 
 *Differential gene expression*:
-* [ ] *R function* : **Batch effect removal** from gene expression matrix by Generalized Linear Models.
+* [x] *R function* : **Batch effect removal** from gene expression matrix by Generalized Linear Models.
 * [ ] *R function* : **limma-voom** implementation.
 * [ ] *R function* : **Gene Set test** statistics.
 * [ ] *Plot* : **Gene Set test** barcode plot improvements: worm and Enrichment Score.
