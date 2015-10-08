@@ -16,7 +16,7 @@
 
 *Quaility Control*:
 
-* [ ] *Plot* : Cross-species contamination plot by using the Fast_screen output. **Babraham Institute** <http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/>
+* [X] *Plot* : Cross-species contamination plot by using the Fast_screen output. **Babraham Institute** <http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/>
 * [ ] *Plot* : Improved FastQC reports somehow. **Babraham Institute** <http://www.bioinformatics.babraham.ac.uk/projects/fastqc/>
 * [ ] *Plot* : Snapshot of alignment given a Exon ID or Gene ID (EnsEMBL, UCSC, genenames, etc).
 

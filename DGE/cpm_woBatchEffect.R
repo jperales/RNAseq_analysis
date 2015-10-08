@@ -1,3 +1,16 @@
+#--- Authorship
+## AUTHOR : Perales-Paton, Javier
+## E-MAIL : jperales@cnio.es
+## DATE : Oct2015
+#--- About this
+## TITLE : Batch effect removal
+## DESCRIPTION : Correct batch effect in Expression profiles from experiments with batch effects using linear models.
+## DEPENDENCIES :
+#   - lattice
+## It is a free piece of code. Please, let me know improvements and ideas.
+
+#---Code
+
 # cpm_woBatchEffect : it uses a lm function to remove batch effect and obtain a matrix of CPM per gene
 # Inspirated by https://support.bioconductor.org/p/54594/
 # My experience: the obtained fixed CPM and the original ones are very close (low batch effect).
