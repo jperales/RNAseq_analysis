@@ -4,7 +4,8 @@
 ## DATE : Oct2015
 #--- About this
 ## TITLE : Batch effect removal
-## DESCRIPTION : Correct batch effect in Expression profiles from experiments with batch effects using linear models.
+## DESCRIPTION : 
+#   Correct batch effect in Expression profiles from experiments with batch effects using linear models.
 ## DEPENDENCIES :
 #   - lattice
 ## It is a free piece of code. Please, let me know improvements and ideas.

@@ -31,8 +31,11 @@
 
 --------------------------------
 
-**Dependencies**
+**Overall dependencies**
+* `Fastq_screen` (perl script - [Babraham Institute](http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
+* `RSeQC` (python scripts - [Broad Institute] (http://rseqc.sourceforge.net/)
 * `edgeR` (R/Bioconductor)
 * `limma` (R/Bioconductor)
 * `ggplot2` (R)
 * `GSEABase` (R/Bioconductor)
+* `lattice` (R)
