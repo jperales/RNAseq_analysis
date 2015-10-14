@@ -32,10 +32,16 @@
 --------------------------------
 
 **Overall dependencies**
-* `Fastq_screen` (perl script - [Babraham Institute](http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
-* `RSeQC` (python scripts - [Broad Institute] (http://rseqc.sourceforge.net/)
+* `Fastq_screen` (perl script) - [Babraham Institute](http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
+* `RSeQC` (python scripts) - [Broad Institute] (http://rseqc.sourceforge.net/)
 * `edgeR` (R/Bioconductor)
 * `limma` (R/Bioconductor)
 * `ggplot2` (R)
 * `GSEABase` (R/Bioconductor)
 * `lattice` (R)
+
+---------------------------------
+
+** References **
+Wang L, Wang S, Li W. RSeQC: quality control of RNA-seq experiments Bioinformatics (2012) 28 (16): 2184-2185. doi: 10.1093/bioinformatics/bts356
+
