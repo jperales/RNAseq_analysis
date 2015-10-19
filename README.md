@@ -1,6 +1,6 @@
 # RNAseq_analysis
 * Purpose: 
-
+> WARNING: betta version. You can explore the code, but it is a very early version.
 > Useful pipeline parts and functions for RNAseq analysis.
 
 **RNAseq tecnhologies:**
@@ -14,7 +14,7 @@
 -----------------------------
 **ToDo List**
 
-*Quaility Control*:
+*Quality Control*:
 
 * [X] *Plot* : Cross-species contamination plot by using the Fast_screen output. **Babraham Institute** <http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/>
 * [ ] *Plot* : Improved FastQC reports somehow. **Babraham Institute** <http://www.bioinformatics.babraham.ac.uk/projects/fastqc/>
@@ -29,6 +29,10 @@
 * [ ] *R function* : **Gene Set test** statistics.
 * [ ] *Plot* : **Gene Set test** barcode plot improvements: worm and Enrichment Score.
 
+*Gene Set Testing*:
+* [ ] *Perl script* : **Mapping Human -> Mouse | Mouse -> Human gene names** based on [**MGI**](http://www.informatics.jax.org/homology.shtml).
+* [ ] *R function* : **Pre-ranked file (.rnk) generator**.
+
 --------------------------------
 
 **Overall dependencies**
@@ -42,6 +46,6 @@
 
 ---------------------------------
 
-** References **
+**References**   
 Wang L, Wang S, Li W. RSeQC: quality control of RNA-seq experiments Bioinformatics (2012) 28 (16): 2184-2185. doi: 10.1093/bioinformatics/bts356
 
